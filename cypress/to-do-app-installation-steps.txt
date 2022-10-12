@@ -1,0 +1,7 @@
+git clone https://github.com/ansarkmemon/todo-app-testing-with-jest
+Go to project folder and open command prompt in that path
+run "npm install"
+run "npm run build"
+run "npm install -g serve"
+run "serve -s build"
+Application will be live at http://localhost:3000
