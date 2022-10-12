@@ -1,0 +1,22 @@
+{
+  "name": "testproject",
+  "version": "1.0.0",
+  "description": "learning cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "type script"
+  ],
+  "author": "Sai Vinay Paladugu",
+  "license": "ISC",
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^14.2.4",
+    "@angular/cli": "^14.2.4",
+    "@angular/common": "^14.2.4",
+    "@angular/core": "^14.2.4",
+    "@angular/platform-browser-dynamic": "^14.2.4",
+    "cypress": "^10.9.0"
+  }
+}
