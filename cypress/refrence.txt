@@ -1,0 +1,71 @@
+https://glebbahmutov.com/blog/use-typescript-with-cypress/
+https://glebbahmutov.com/blog/use-typescript-with-cypress/
+https://github.com/cypress-io/cypress-example-todomvc
+https://glebbahmutov.com/blog/use-typescript-with-cypress/
+https://github.com/cypress-io/cypress/issues/9376
+https://dev.to/bushraalam/using-mochawesome-reporter-with-cypress-54pf
+https://www.toolsqa.com/cypress/fixtures-in-cypress/
+https://www.toolsqa.com/cypress/cypress-commands-ui-interaction-commands/
+https://docs.cypress.io/guides/overview/why-cypress#End-to-end
+https://www.tutorialspoint.com/cypress/cypress_asynchronous_behavior.htm
+
+https://chercher.tech/cypress-io/api-testing-cypress-io#:~:text=DELETE%20method%20in%20CypressIO%20The%20DELETE%20method%20Removes,automatically%20serialized%20into%20JSON%20cy.log%20%28response.body%29%3B%20%7D%29%3B%20%7D%29%3B
+https://chercher.tech/cypress-io/bdd-cucumber-cypress-io
+
+https://trytestingthis.netlify.app/
+http://restapi.adequateshop.com/api/Tourist?page=2
+https://admin-demo.nopcommerce.com/
+https://demowebshop.tricentis.com/
+
+https://www.techlistic.com/2020/07/automation-testing-demo-websites.html
+
+Online Test Api's
+https://reqbin.com/
+https://gorest.co.in/public/v2/users
+
+https://www.youtube.com/watch?v=J9AHVKNDkDU
+
+https://www.browserstack.com/guide/cypress-ui-test
+https://www.fleekitsolutions.com/cypress-modern-automation-testing-tool/
+https://www.lambdatest.com/blog/finding-html-elements-using-cypress-locators/
+https://chercher.tech/cypress-io/custom-commands-cypress
+
+
+curl -i -H "Accept:application/json" -H "Content-Type:application/json" -H "Authorization: Bearer fdc0028dd6bdb34cd4cdd4855eca905037a4b09e9de0d389c88d79f0e0dede06" -XPOST "https://gorest.co.in/public/v2/graphql" -d '{"query":"mutation{createUser(input: {name: \"Tenali Ramakrishna\" gender: \"male\" email: \"tenali.ramakrishna@15ce.com\" status: \"active\"}) {user{id name gender email status}}}"}'
+CURD
+Create - you write data to it - POST operation
+Update - You update or repalce already added date - PUT operation
+Read - You read that data - GET Operation
+Delete - You delete the data added - DELETE operation
+
+
+Day1- Cypress
+1. Cypress - Features - Benefits 
+
+Day2 - Cypress
+1. Todo App in Reactjs - Used Github to clone it and started that in  node js
+2. Tried with a test case for the access the elements of the local todo app
+3. Assertions - Implict Assertions, Explict Assertions
+4. Url or external web based TodoApp.
+5. .Skip & .only 
+6. CSS Locators - id(#),class(.),attribute(tagname['attributename'='attributevalue'])),tag(tagname)
+7. Stubbing & Spying
+
+Day 3 - Cypress
+1. Deep dive with CSS locator
+cy.get().first()
+cy.get().last()
+cy.get().next()
+cy.get().nextuntil()
+cy.get().prevuntil()
+cy.get().prev()
+cy.get().sibilings()
+cy.get().children()
+
+2. API calls testing
+cy.request()
+cy.request(url,method)
+cy.request().then((response)=>{ check for assertions})
+
+3. Stubs for Prompts and alert
+	
